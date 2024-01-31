@@ -16,6 +16,7 @@ import org.w3c.dom.Text
 
 class MainActivity : AppCompatActivity() {
     // Permission request code
+    
     private val PERMISSION_REQUEST_CODE = 1001
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
