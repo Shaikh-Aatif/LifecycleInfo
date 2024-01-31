@@ -14,6 +14,7 @@ import androidx.appcompat.app.AlertDialog
 import androidx.core.app.ActivityCompat
 import org.w3c.dom.Text
 
+
 class MainActivity : AppCompatActivity() {
     // Permission request code
     
