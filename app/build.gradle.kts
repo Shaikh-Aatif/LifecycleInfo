@@ -7,6 +7,10 @@ android {
     namespace = "com.systems.lifecyclechecker"
     compileSdk = 34
 
+
+
+
+
     defaultConfig {
         applicationId = "com.systems.lifecyclechecker"
         minSdk = 24
